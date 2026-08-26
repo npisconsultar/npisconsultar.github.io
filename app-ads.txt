@@ -46,17 +46,13 @@ zmaticoo.com, 5135655, RESELLER
 
 
 # ---------- Meta / Audience Network ----------
-# App ID extraido do Placement ID do interstitial:
-#   2565159473875070_2837005720023776
-#   ^^^^^^^^^^^^^^^^ App ID
+
 # Se o painel do Meta mostrar DIRECT em vez de RESELLER, use o do painel.
 facebook.com, 1171578859887970, DIRECT, c3e20eee3f780d68
 
 # ---------- Google AdMob ----------
-# TODO: trocar pelo SEU Publisher ID e apagar o # da linha.
-# Pegue em: AdMob -> Configuracoes -> Informacoes da conta -> ID do editor
-# NAO use o ID de teste (pub-3940256099942544) que esta hoje no ads.xml do projeto.
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# google.com, pub-3057694700036384, DIRECT, f08c47fec0942fa0
 
 
 # ---------- Pangle ----------
