@@ -46,7 +46,6 @@ facebook.com, 1171578859887970, DIRECT, c3e20eee3f780d68
 
 # ---------- Google AdMob ----------
 
-# google.com, pub-3057694700036384, DIRECT, f08c47fec0942fa0
 
 
 # ---------- Pangle ----------
